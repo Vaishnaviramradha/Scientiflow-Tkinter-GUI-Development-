@@ -48,5 +48,5 @@ and **Logout**, ensuring that only registered users can access the dashboard.
  
 ### Clone the Repository
 
-git clone https://github.com/Vaishnaviramradha/scientiflow-gui.git
+git clone https://github.com/Vaishnaviramradha/Scientiflow-Tkinter-GUI-Development-.git
 cd scientiflow-gui
